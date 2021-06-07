@@ -1,0 +1,9 @@
+# goit-react-hw-04-movies
+
+Ключ API (v3 auth) d9938281c8a3e165d906b466f113d9c3
+
+Пример API-запроса
+https://api.themoviedb.org/3/movie/550?api_key=d9938281c8a3e165d906b466f113d9c3
+
+Ключ доступа к API (v4 auth)
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkOTkzODI4MWM4YTNlMTY1ZDkwNmI0NjZmMTEzZDljMyIsInN1YiI6IjYwYmI4ZDA4MThiNzUxMDA0Mjg4MzUxZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.goglRkf2ZXgMhSNdrj2FKJlY0eIXN48qGw7iHRK6Xsk

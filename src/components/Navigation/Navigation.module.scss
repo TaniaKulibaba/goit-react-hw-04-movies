@@ -1,0 +1,20 @@
+.navigation {
+  &List {
+    display: flex;
+    font-weight: bold;
+    list-style: none;
+  }
+
+  &Item:not(:last-child) {
+    margin-right: 15px;
+  }
+}
+
+.navLink {
+  text-decoration: none;
+  color: white;
+
+  &Active {
+    color: palevioletred;
+  }
+}

@@ -1,0 +1,18 @@
+.movieCard {
+  display: flex;
+}
+
+.movieDescription {
+  margin-left: 40px;
+}
+
+.movieImageThumb {
+  height: 350px;
+}
+
+.movieImage {
+  display: block;
+  width: 250px;
+  height: 100%;
+  object-fit: cover;
+}
